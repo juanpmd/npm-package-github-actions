@@ -1,6 +1,6 @@
 {
   "name": "npm-package-github-actions",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook",
     "build": "rollup -c",
-    "publish": "npm run build && npm publish --access public"
+    "juan": "npm run build && npm publish --access public"
   },
   "keywords": [
     "react",
