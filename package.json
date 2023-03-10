@@ -17,7 +17,7 @@
     "boilerplate"
   ],
   "author": "Juan Pablo Mejia Duque",
-  "repository": "juanpmd/react-npm-package-boilerplate",
+  "repository": "juanpmd/npm-package-github-actions",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",
